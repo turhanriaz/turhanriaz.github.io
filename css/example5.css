@@ -1,0 +1,26 @@
+.blue-text {
+	color: blue;
+	font-size: 50px;
+	text-align: center;
+}
+
+h3 {
+	color: grey;
+	font-size: 40px;
+	font-weight: darker;
+}
+
+body {
+	background-image: url(https://www.fcbarcelona.com/documents/20197/2438527/Camp+Nou+03+wallpaper/bf3f0144-e62b-4df0-9623-af1b82649366?t=1438529919000);
+	background-size: cover;
+}
+
+p {
+	color: silver;
+	font-size: 25px;
+}
+
+li {
+	color: silver;
+	font-size: 25px;
+	}
